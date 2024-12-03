@@ -1,0 +1,75 @@
+body {
+    font-family: "Liberation Serif", serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+    color: #333;
+}
+
+header {
+    text-align: left;
+    margin-top: 20px;
+}
+
+header img {
+    max-width: 150px;
+}
+
+header h1 {
+    font-size: 1.2em;
+    color: #333;
+    font-weight: normal;
+}
+
+h2 {
+    color: #990000;
+    font-size: 1em;
+    margin-bottom: 10px;
+}
+
+main {
+    max-width: 800px;
+    padding: 20px;
+}
+
+section.imagenes-sip{
+    display: inline-block;
+
+}
+
+div.fecha{
+    display: inline-block;
+}
+
+img{
+    width: 33%;
+    height: 33%;
+    display: inline-block;
+}
+
+div.cita{
+    display: inline-block;
+    margin-left: 33%;
+}
+
+div.prueba{
+    display: inline-block;
+    
+}
+
+div.prueba2{
+    display: inline-block;
+    width: 100px;
+    height: auto;
+}
+div.prueba3{
+    display: inline-block;
+    width: 100px;
+    height: auto;
+}
+
+div.prueba4{
+    display: inline-block;
+    height: 50px;
+}
+
